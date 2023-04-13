@@ -28,6 +28,11 @@ Set to take the #100daysofcode challenge, in which I'll commit to challenging my
 
 **Thoughts:** Vectors made my work easy, I wish my university thought me about Vectors and not just Arrays.
 
+### Day 4: Apr 13, 2022
+**Today's Progress**: Continued working on Javascript and learnd about Let, const , Temperal dead Zone and many intresting Concepts & C++ Vectors of Pairs, learned some new ways of Vector + pairs working together.
+
+**Thoughts:**Javascript is really nice language all you need is good guidance to understand JS.
+
 
 
 
