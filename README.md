@@ -33,6 +33,12 @@ Set to take the #100daysofcode challenge, in which I'll commit to challenging my
 
 **Thoughts:** Javascript is really nice language all you need is good guidance to understand JS.
 
+### Day 5: Apr 14, 2022
+**Today's Progress**: I've learned about STL vector arrays,
+Understands the concepts of Closures in Javascript.
+
+**Thoughts:** It was nice to understand those concepts, I figured that topic real fun, read much documentation
+
 
 
 
