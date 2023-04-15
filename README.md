@@ -40,6 +40,12 @@ Understands the concepts of Closures in Javascript.
 **Thoughts:** It was nice to understand those concepts, I figured that topic real fun, read much documentation
 
 
+### Day 6: Apr 15, 2022
+**Today's Progress**: I've learned about STL vector arrays,
+Understands the concepts of Closures in Javascript.
+
+**Thoughts:** It was nice to understand those concepts, I figured that topic real fun, read much documentation
+
 
 
 
