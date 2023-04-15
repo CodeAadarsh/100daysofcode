@@ -41,10 +41,9 @@ Understands the concepts of Closures in Javascript.
 
 
 ### Day 6: Apr 15, 2022
-**Today's Progress**: I've learned about STL vector arrays,
-Understands the concepts of Closures in Javascript.
+**Today's Progress**: I learned about tailwind css,
+didnt did too much today but hmm. today worked on my minor project of college.
 
-**Thoughts:** It was nice to understand those concepts, I figured that topic real fun, read much documentation
 
 
 
